@@ -1,6 +1,6 @@
 <?php 
 
 
-/**
- new index file been added to the directory
-**/
+
+// new index file been added to the directory
+
